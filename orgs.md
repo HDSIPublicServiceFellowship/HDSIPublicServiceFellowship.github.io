@@ -2,7 +2,7 @@
 title: Find Organizations
 ---
 
-## Finding an Organizations
+## Finding Organizations
 
 The fellowship is flexible and if you have an organization you really want to intern with, you should get in touch with them. That being said, finding a public interest organization can be overwhelming, so we've compiled some resources.
 
