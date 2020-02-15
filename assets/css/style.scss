@@ -2,5 +2,18 @@
 ---
 $header-bg-color: #A41034;
 $section-headings-color: #A41034;
-$header-bg-color-secondary: #000000;
+$header-bg-color-secondary: #A41034;
+
 @import "{{ site.theme }}";
+
+.btn {
+    color: rgba(0, 0, 0, 1);
+    background-color: rgba(255, 255, 255, 1);
+
+    &:hover {
+        color: rgba(255, 255, 255, 1.0);
+        text-decoration: none;
+        background-color: rgba(255, 255, 255, 0.2);
+        border-color: rgba(255, 255, 255, 0.3);
+  }
+}
