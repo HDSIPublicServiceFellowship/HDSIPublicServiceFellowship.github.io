@@ -16,4 +16,4 @@ Here are some more general resources to help find a public interest technology o
 * [Tech Jobs for Good](https://techjobsforgood.com/)
 * [Bruce Schneier's Public Interest Technology Resources](https://public-interest-tech.com/#journalism-groups)
 
-**If you are a public interest organization interested in hosting a fellow, please TODO: fill out this form.**
+**If you are a public interest organization interested in hosting a fellow, please [fill out this form.](https://forms.gle/TjqQENZmd954hYqZ9)**
