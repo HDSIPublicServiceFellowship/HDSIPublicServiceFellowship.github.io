@@ -8,7 +8,7 @@ The fellowship is flexible and if you have an organization you really want to in
 
 **If you're a student in an HDSI program, you should have received a link to contacts at organizations that have expressed  interest in hosting a fellow**
 
-Here are some more general resources to help find a public interest technology organizations:
+Here are some more general resources to help find a public interest technology organizations. While these resources include private sector companies, the fellowship is limited to nonprofit and public sector organizations.
 
 * [Ben Green's Google Sheet](https://docs.google.com/spreadsheets/d/1-ia1WM-m9Rk3JZpX0jx8uxq5_KWZrYUTnKIbvKTvg5Y/edit#gid=0)
 * [Public Interest Tech Job Board by Code for America](https://jobs.codeforamerica.org/)
